@@ -23,10 +23,6 @@ It is designed primarily for Linux environments to provide easy-to-use visual in
 - Pandas (data export)
 - Dash Bootstrap Components (UI and themes)
 
-## 📸 Screenshots
-
-> Add screenshots here to show how the dashboard looks in dark and light themes, and during monitoring.
-
 ## 📑 Setup and Usage
 
 ### Install requirements:
